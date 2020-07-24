@@ -1,0 +1,92 @@
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Release\E-Medicine.exe.config
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Release\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Release\E-Medicine.pdb
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Release\MySql.Data.dll
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Release\Google.Protobuf.dll
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Release\MySql.Data.xml
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.AddMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.AdminMainForm.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateAdministrator.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateClinic.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreatePerson.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreatePharmacist.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreatePharmacy.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.DoctorJournal.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.DoctorMode.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.LF.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.MainForm.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.PersonDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.PersonMode.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.PharmacistJournal.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.PharmacistMode.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.Properties.Resources.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.SellMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.SetAssignment.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.SetGroup.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.Prescription.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.SetMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.UserClinic.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.csproj.GenerateResource.cache
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.csproj.CopyComplete
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.pdb
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.exe
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.pdb
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\bin\Release\E-Medicine.exe.config
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\bin\Release\E-Medicine.exe
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\bin\Release\E-Medicine.pdb
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\bin\Release\Google.Protobuf.dll
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\bin\Release\MySql.Data.xml
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.csprojAssemblyReference.cache
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.AdminMainForm.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateAdministrator.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateClinic.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateDoctor.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreateMedicine.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.CreatePerson.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.DoctorJournal.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.DoctorMode.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.LF.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.MainForm.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.PersonDoctor.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.PersonMode.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.Properties.Resources.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.SetAssignment.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.SetGroup.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.Prescription.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.SetMedicine.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E_Medicine.UserClinic.resources
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.csproj.GenerateResource.cache
+D:\My Progs\C#\E-Medicine_FASTRING\E-Medicine\obj\Release\E-Medicine.csproj.CopyComplete
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\bin\Release\E-Medicine.exe.config
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\bin\Release\E-Medicine.exe
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\bin\Release\E-Medicine.pdb
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\bin\Release\Google.Protobuf.dll
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\bin\Release\MySql.Data.xml
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E-Medicine.csprojAssemblyReference.cache
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.AdminMainForm.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.CreateAdministrator.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.CreateClinic.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.CreateDoctor.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.CreateMedicine.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.CreatePerson.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.DoctorJournal.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.DoctorMode.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.LF.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.MainForm.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.PersonDoctor.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.PersonMode.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.Properties.Resources.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.SetAssignment.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.SetGroup.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.Prescription.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.SetMedicine.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E_Medicine.UserClinic.resources
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E-Medicine.csproj.GenerateResource.cache
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E-Medicine.csproj.CopyComplete
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E-Medicine.exe
+D:\My Progs\C#\E-Medicine_FASTRING - Copy\E-Medicine\obj\Release\E-Medicine.pdb

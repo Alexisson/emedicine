@@ -1,0 +1,101 @@
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\bin\Debug\E-Medicine.exe.config
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\bin\Debug\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\bin\Debug\E-Medicine.pdb
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E-Medicine.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.MainForm.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.Properties.Resources.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E-Medicine.csproj.GenerateResource.cache
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E-Medicine.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E-Medicine.pdb
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\bin\Debug\MySql.Data.dll
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\bin\Debug\Google.Protobuf.dll
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\bin\Debug\MySql.Data.xml
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.LF.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E-Medicine.csproj.CopyComplete
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.AdminMainForm.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.CreateAdministrator.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.CreatePerson.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.CreateClinic.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.CreateDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.CreatePharmacist.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.CreatePharmacy.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.CreateMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.UserClinic.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.PersonMode.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.DoctorMode.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.PersonDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.SM.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.SetPrescription.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.DoctorJournal.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.AddMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine\E-Medicine\obj\Debug\E_Medicine.PharmacistMode.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E-Medicine.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.AddMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.AdminMainForm.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.CreateAdministrator.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.CreateClinic.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.CreateDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.CreateMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.CreatePerson.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.CreatePharmacist.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.CreatePharmacy.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.DoctorJournal.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.DoctorMode.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.LF.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.MainForm.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.PersonDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.PersonMode.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.PharmacistMode.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.Properties.Resources.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.SetPrescription.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.SM.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.UserClinic.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E-Medicine.csproj.GenerateResource.cache
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E-Medicine.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E-Medicine.pdb
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\bin\Debug\E-Medicine.exe.config
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\bin\Debug\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\bin\Debug\E-Medicine.pdb
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\bin\Debug\MySql.Data.dll
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\bin\Debug\Google.Protobuf.dll
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\bin\Debug\MySql.Data.xml
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E_Medicine.SetGroup.resources
+C:\Users\ivana\source\repos\E-Medicine — копия — копия\E-Medicine\obj\Debug\E-Medicine.csproj.CopyComplete
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Debug\E-Medicine.exe.config
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Debug\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Debug\E-Medicine.pdb
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Debug\MySql.Data.dll
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Debug\Google.Protobuf.dll
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\bin\Debug\MySql.Data.xml
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E-Medicine.csprojAssemblyReference.cache
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.AddMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.AdminMainForm.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.CreateAdministrator.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.CreateClinic.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.CreateDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.CreateMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.CreatePerson.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.CreatePharmacist.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.CreatePharmacy.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.DoctorJournal.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.DoctorMode.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.LF.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.MainForm.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.PersonDoctor.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.PersonMode.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.PharmacistMode.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.Properties.Resources.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.SetGroup.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.UserClinic.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E-Medicine.csproj.GenerateResource.cache
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E-Medicine.csproj.CoreCompileInputs.cache
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E-Medicine.csproj.CopyComplete
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E-Medicine.exe
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E-Medicine.pdb
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.SellMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.PharmacistJournal.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.SetAssignment.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.SetMedicine.resources
+C:\Users\ivana\source\repos\E-Medicine_FASTRING\E-Medicine\obj\Debug\E_Medicine.Prescription.resources
